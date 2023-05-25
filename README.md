@@ -1,1 +1,1 @@
-This is just to test my website for a assignment
+This is just to test my website for an assignment
